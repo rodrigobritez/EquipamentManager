@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/britez/EquipmentManager/EquipmentManager.csproj",
+      "projectUniqueName": "/home/britez/EquipamentManager/EquipmentManager.csproj",
       "projectName": "EquipmentManager",
-      "projectPath": "/home/britez/EquipmentManager/EquipmentManager.csproj",
+      "projectPath": "/home/britez/EquipamentManager/EquipmentManager.csproj",
       "packagesPath": "/home/britez/.nuget/packages/",
-      "outputPath": "/home/britez/EquipmentManager/obj/",
+      "outputPath": "/home/britez/EquipamentManager/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/britez/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,12 @@
+/home/britez/EquipamentManager/Backend/EquipManager.Domain/bin/Debug/net6.0/EquipManager.Domain.deps.json
+/home/britez/EquipamentManager/Backend/EquipManager.Domain/bin/Debug/net6.0/EquipManager.Domain.dll
+/home/britez/EquipamentManager/Backend/EquipManager.Domain/bin/Debug/net6.0/EquipManager.Domain.pdb
+/home/britez/EquipamentManager/Backend/EquipManager.Domain/obj/Debug/net6.0/EquipManager.Domain.csproj.AssemblyReference.cache
+/home/britez/EquipamentManager/Backend/EquipManager.Domain/obj/Debug/net6.0/EquipManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/britez/EquipamentManager/Backend/EquipManager.Domain/obj/Debug/net6.0/EquipManager.Domain.AssemblyInfoInputs.cache
+/home/britez/EquipamentManager/Backend/EquipManager.Domain/obj/Debug/net6.0/EquipManager.Domain.AssemblyInfo.cs
+/home/britez/EquipamentManager/Backend/EquipManager.Domain/obj/Debug/net6.0/EquipManager.Domain.csproj.CoreCompileInputs.cache
+/home/britez/EquipamentManager/Backend/EquipManager.Domain/obj/Debug/net6.0/EquipManager.Domain.dll
+/home/britez/EquipamentManager/Backend/EquipManager.Domain/obj/Debug/net6.0/refint/EquipManager.Domain.dll
+/home/britez/EquipamentManager/Backend/EquipManager.Domain/obj/Debug/net6.0/EquipManager.Domain.pdb
+/home/britez/EquipamentManager/Backend/EquipManager.Domain/obj/Debug/net6.0/ref/EquipManager.Domain.dll
